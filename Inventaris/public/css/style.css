@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&family=Patrick+Hand&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'ui-rounded', cursive;
+}
+
+.jumbotron {
+  background-color: #f3f1f1 !important;
+}
